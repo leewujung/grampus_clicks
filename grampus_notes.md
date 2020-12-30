@@ -19,7 +19,9 @@ Carfully looked through all the calibration data from Adam. Made a few slides to
     - record the frame numbers for:
         - when the squid was thrown into water
         - when the dolphin was instructed to turn
-- NOTE: need to look into if the observed changes of beam pattern was before and after the dolphin turned and submerged its head underwater
+- need to look into if the observed changes of beam pattern was before and after the dolphin turned and submerged its head underwater
+    - crude quick check does show that the abrupt change of beamwidth happens as the dolphin made the "dive" to put its head underwater. For the two trials where I saw clear transition of beampattern: 20150426_am_throw1 and 20150427_am_throw1, the narrower beamwidth both showed up before the big gap in click sequence. Once the dolphin launged into the catch, the beamwidth was stable.
+- seems that the story should be more about the beampattern in near and farfield instead of on the change of beamwidth
 
 
 
